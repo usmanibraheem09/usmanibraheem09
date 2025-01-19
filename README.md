@@ -1,1 +1,1 @@
-
+Hi there i am Usman Ibrahem. I am a fresh graduarte of BS Information Technology. I have worked in the field of mobile application development using flutter and dart. i completed a course of flutter from Arfa Karim Lahore. along with the course, i had 2 months of hands-on experience in flutter where i build a few little projects. now i am eager to learn new experiences regarding this field and bring new ideas to table and build them in real life.
